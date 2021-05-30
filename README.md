@@ -1,1 +1,3 @@
-# gitPractice
+# gitPractice git:(main) ls -al
+
+
